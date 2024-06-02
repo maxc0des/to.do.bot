@@ -1,2 +1,2 @@
 # to.do.bot
-⚠️This project is WIP and neither finished nor completly finished⚠️
+⚠️This project is WIP and neither finished nor completly working⚠️
